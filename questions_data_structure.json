@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "type": "MC",
+    "question": "Màu nào sau đây là màu cam?",
+    "options": [
+      {"text": "pink", "isCorrect": false},
+      {"text": "orange", "isCorrect": true},
+      {"text": "brown", "isCorrect": false}
+    ],
+    "reward_letter": "C"
+  },
+  {
+    "id": 2,
+    "type": "MC",
+    "question": "Màu nào sau đây là màu hồng?",
+    "options": [
+      {"text": "purple", "isCorrect": false},
+      {"text": "pink", "isCorrect": true},
+      {"text": "orange", "isCorrect": false}
+    ],
+    "reward_letter": "Ô"
+  },
+  {
+    "id": 3,
+    "type": "MC",
+    "question": "Màu nào sau đây là màu nâu?",
+    "options": [
+      {"text": "brown", "isCorrect": true},
+      {"text": "pink", "isCorrect": false},
+      {"text": "purple", "isCorrect": false}
+    ],
+    "reward_letter": " ",
+    "note": "Khoảng trắng cho chữ cái thứ 3"
+  },
+  {
+    "id": 4,
+    "type": "MC",
+    "question": "Màu nào sau đây là màu tím?",
+    "options": [
+      {"text": "orange", "isCorrect": false},
+      {"text": "brown", "isCorrect": false},
+      {"text": "purple", "isCorrect": true}
+    ],
+    "reward_letter": "D"
+  },
+  {
+    "id": 5,
+    "type": "SA",
+    "question": "Nếu một cô bé hỏi 'How old are you?' và trả lời 'I\'m six.', vậy cô bé đó bao nhiêu tuổi? (Nhập số)",
+    "correct_answer": "6",
+    "reward_letter": "U"
+  },
+  {
+    "id": 6,
+    "type": "MC",
+    "question": "Bạn nhỏ nào thích màu tím?",
+    "options": [
+      {"text": "Cô bé nói 'I'm six.'", "isCorrect": false},
+      {"text": "Cô bé nói 'I like purple.'", "isCorrect": true},
+      {"text": "Cậu bé nói 'I like orange.'", "isCorrect": false}
+    ],
+    "reward_letter": "N"
+  },
+  {
+    "id": 7,
+    "type": "SA",
+    "question": "Có bao nhiêu quả táo nếu nói 'Seven apples'? (Nhập số)",
+    "correct_answer": "7",
+    "reward_letter": "G"
+  },
+  {
+    "id": 8,
+    "type": "MC",
+    "question": "Ngày nào sau đây là Thứ Ba?",
+    "options": [
+      {"text": "Monday", "isCorrect": false},
+      {"text": "Tuesday", "isCorrect": true},
+      {"text": "Wednesday", "isCorrect": false}
+    ],
+    "reward_letter": " ",
+    "note": "Khoảng trắng cho chữ cái thứ 8"
+  },
+  {
+    "id": 9,
+    "type": "MCA",
+    "question": "Những ngày nào sau đây là ngày cuối tuần? (Chọn tất cả các đáp án đúng)",
+    "options": [
+      {"text": "Monday", "isCorrect": false},
+      {"text": "Saturday", "isCorrect": true},
+      {"text": "Sunday", "isCorrect": true},
+      {"text": "Friday", "isCorrect": false}
+    ],
+    "reward_letter": "X"
+  },
+  {
+    "id": 10,
+    "type": "SA",
+    "question": "Có bao nhiêu quả táo nếu nói 'Ten apples'? (Nhập số)",
+    "correct_answer": "10",
+    "reward_letter": "I"
+  }
+]
+
+

@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "type": "MC",
+    "question": "🎨 Màu nào sau đây là màu cam ?",
+    "options": [
+      {"text": "🌸 pink", "isCorrect": false},
+      {"text": "🍊 orange", "isCorrect": true},
+      {"text": "🥥 brown", "isCorrect": false}
+    ],
+    "reward_letter": "C",
+    "explanation": "Orange nghĩa là màu cam, giống như màu của quả cam! 🍊"
+  },
+  {
+    "id": 2,
+    "type": "MC",
+    "question": "🎨  Màu nào sau đây là màu hồng?",
+    "options": [
+      {"text": "💜 purple", "isCorrect": false},
+      {"text": "🌸 pink", "isCorrect": true},
+      {"text": "🍊 orange", "isCorrect": false}
+    ],
+    "reward_letter": "Ô",
+    "explanation": "Pink nghĩa là màu hồng, giống như màu của hoa anh đào! 🌸"
+  },
+  {
+    "id": 3,
+    "type": "MC",
+    "question": "🎨  Màu nào sau đây là màu nâu?",
+    "options": [
+      {"text": "💜 brown", "isCorrect": true},
+      {"text": "🌸 pink", "isCorrect": false},
+      {"text": "💜 purple", "isCorrect": false}
+    ],
+    "reward_letter": " ",
+    "explanation": "Brown nghĩa là màu nâu, giống như màu của gỗ! 🪵"
+  },
+  {
+    "id": 4,
+    "type": "MC",
+    "question": "🎨 Màu nào sau đây là màu tím?",
+    "options": [
+      {"text": "🍊 orange", "isCorrect": false},
+      {"text": "🤎 brown", "isCorrect": false},
+      {"text": "💜 purple", "isCorrect": true}
+    ],
+    "reward_letter": "D",
+    "explanation": "Purple nghĩa là màu tím, giống như màu của hoa tím! 💜"
+  },
+  {
+    "id": 5,
+    "type": "SA",
+    "question": "🧮 Tính toán: $2 + 4 = ?$ (Nhập kết quả)",
+    "correct_answer": "six",
+    "reward_letter": "U",
+    "explanation": "Phép cộng: $2 + 4 = six$. Tuyệt vời! 🎉",
+    "hasMath": true
+  },
+  {
+    "id": 6,
+    "type": "MC",
+    "question": "💜 Bạn nhỏ nào thích màu tím?",
+    "options": [
+      {"text": "👧 Cô bé nói 'I'm six.'", "isCorrect": false},
+      {"text": "👧 Cô bé nói 'I like purple.'", "isCorrect": true},
+      {"text": "👦 Cậu bé nói 'I like orange.'", "isCorrect": false}
+    ],
+    "reward_letter": "N",
+    "explanation": "'I like purple' nghĩa là 'Tôi thích màu tím'! 💜"
+  },
+  {
+    "id": 7,
+    "type": "SA",
+    "question": "Tính toán: $3 + 4 = ?$ (Nhập kết quả)",
+    "correct_answer": "seven",
+    "reward_letter": "G",
+    "explanation": "Phép cộng: $3 + 4 = seven$. Giỏi lắm! 🌟",
+    "hasMath": true
+  },
+  {
+    "id": 8,
+    "type": "MC",
+    "question": "📅 Ngày nào sau đây là Thứ Ba?",
+    "options": [
+      {"text": "📅 Monday", "isCorrect": false},
+      {"text": "📅 Tuesday", "isCorrect": true},
+      {"text": "📅 Wednesday", "isCorrect": false}
+    ],
+    "reward_letter": " ",
+    "explanation": "Tuesday nghĩa là Thứ Ba trong tuần! 📅"
+  },
+  {
+    "id": 9,
+    "type": "MCA",
+    "question": "🏖️ Những ngày nào sau đây là ngày cuối tuần? (Chọn tất cả các đáp án đúng)",
+    "options": [
+      {"text": "📅 Monday", "isCorrect": false},
+      {"text": "🏖️ Saturday, "isCorrect": true},
+      {"text": "🏖️ Sunday, "isCorrect": true},
+      {"text": "📅 Friday", "isCorrect": false}
+    ],
+    "reward_letter": "X",
+    "explanation": "Saturday (Thứ Bảy) và Sunday (Chủ Nhật) là hai ngày cuối tuần! 🏖️"
+  },
+  {
+    "id": 10,
+    "type": "SA",
+    "question": "🧮 Tính toán: $5 + 5 = ?$ (Nhập kết quả)",
+    "correct_answer": "ten",
+    "reward_letter": "I",
+    "explanation": "Phép cộng: $5 + 5 = ten$. Hoàn hảo! 🎊",
+    "hasMath": true
+  }
+]
+
